@@ -72,14 +72,19 @@ TeckTok is a Twitter-style web application built using Laravel and Tailwind CSS.
 ## Screenshots of the Application
 
 ### Log In
-(screenshots/tweet_feed.png)
+![Log In](images/login.png)
 
 ### Tweet Page
-(screenshots/create_tweet.png)
+![Tweet Page](images/tweet.png)
 
 ### Edit Profile Page
-(screenshots/like_tweet.png)
+![Edit Profile](images/edit-profile.png)
 
+### Registes Page
+![Register](images/register.png)
+
+### Profile Page
+![Pofile](images/profile.png)
 ---
 
 ## Credits
